@@ -8,3 +8,69 @@
 	font-size: 15px;
 	font-family: 'Open Sans:300';
 }
+#nav{
+	background-color: #de5900;
+}
+
+
+#nav a{
+	color: white;
+	font-size: 40px;
+	text-decoration: none;
+}
+
+#control{
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+
+}
+
+#jumbotron{
+	height: 600px;
+	background-image: url("images/guitar.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+
+
+}
+#jumbotron h1{
+	color: white;
+	font-size: 6em;
+	text-align: center;
+
+}
+#jumbotron h2{
+	color: white;
+	font-size: 3em;
+	text-align: center;
+	
+}
+
+#jumb-control{
+	margin-top: 180px;
+}
+
+
+.space{
+	padding-top: 80px;
+}
+
+.paras{
+	padding-top: 0;
+}
+.paras h2{
+	font-size: 3em;
+	margin-top: 0px;
+}
+.paras p{
+	font-size: 1.7em;
+}
+
+@media screen and (max-width: 768) {
+	.paras p{
+		font-size: 1em;
+		color: red;
+	}
+
+}
