@@ -73,13 +73,6 @@
 	font-size: 1.6em;
 }
 
-@media screen and (max-width: 768) {
-	.paras p{
-		font-size: 1em;
-		color: red;
-	}
-
-}
 
 .space_control{
 	margin-top: 40px;
@@ -96,6 +89,7 @@
 }
 .person_group p{
 	margin-top: 30px;
+	font-size: .9em;
 }
 
 .pack{
