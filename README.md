@@ -6,7 +6,7 @@
 
 **Where can I see this?**
 
-> This website is running on github sites. Click on the link in the side to view it.
+> This website is running on github pages. Click on the link in the about to view it.
 
 This website was made using only html, css and bootstrap. 
 
